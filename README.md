@@ -1,16 +1,13 @@
-# Produto
-
+# Filme
 Esta atividade é requisito da Avaliação Continuada 1
 
 ## 🚀 Começando
 
-*Crie uma classe que representa um produto. A classe deve ter os atributos, nome, marca, preço de custo e preço de venda. Deve ter também um método que calcula e retorna o lucro.
+*Crie uma classe Filme que contém os atributos título, duração em minutos e gênero. Essa classe deve encapsular e validar todos os atributos.
 
-*Crie objetos dessa classe e escreva na tela seus atributos e o valor do lucro.
-
-*Crie uma classe para representar pessoas. O construtor da classe deve receber como parâmetros o nome completo, altura e a data de nascimento. Os objetos, logo após criados, devem criar automaticamente um email no formato nome.sobrenome@dominio.
-
-*Desafio: A data de nascimento não pode ser posterior à data atual.
+*O título não pode estar vazio.
+*A duração deve ser maior que zero.
+*O gênero de ser Romance, Terror ou Comédia;
 
 ### 📋 Pré-requisitos
 
@@ -46,4 +43,4 @@ Após abrir o pacote com os 3 Arquivos para o programa executar, entre no Arquiv
 
 ## ✒️ Autores
 
-* **Matheus Leone** - *Trabalho Inicial* - Produto
+* **Matheus Leone** - *Trabalho Inicial* - Filme
