@@ -31,7 +31,7 @@ Espaço em disco suficiente para baixar e instalar os componentes da IDE(Não é
 
 ### 🔧 Instalação
 
-Após abrir o pacote com os 3 Arquivos para o programa executar, entre no Arquivo Main, onde estarão todas as informações de Input do programa, após colocar as informações que você quer, é só rodar e o cálculo tanto de produtos, quanto o de "cadastro de pessoas" será realizado
+Após abrir o pacote com o Arquivo para o programa executar, entre no Arquivo Main, onde estarão todas as informações de Input do programa, após colocar as informações que você quer, é só rodar.
 
 ## 🛠️ Construído com
 
